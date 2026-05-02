@@ -11,3 +11,5 @@ env/
 *.log
 .idea/
 .vscode/
+.env.dev
+pg_password.txt
